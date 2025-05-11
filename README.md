@@ -1,6 +1,5 @@
 # 🗂️ Automated File Organizer using Python
 
-![File Automation System](assets/banner.png)
 
 A simple yet powerful Python script that **automatically organizes your downloads folder** by monitoring file changes and moving them into appropriate subfolders (audio, video, images, documents, etc.) using the `watchdog` library.
 
@@ -18,13 +17,6 @@ A simple yet powerful Python script that **automatically organizes your download
 
 ---
 
-## 📸 Screenshot Example
-
-> **Before** and **After** organization in the Downloads folder:
-
-| Before | After |
-|--------|-------|
-| ![Before](assets/before.png) | ![After](assets/after.png) |
 
 ---
 
